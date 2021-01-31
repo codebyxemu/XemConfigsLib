@@ -1,0 +1,5 @@
+name: XemConfigs
+version: ${project.version}
+main: me.xemu.xemconfigs.XemConfigs
+authors: [Xemu]
+description: The ultimate configuration library 
